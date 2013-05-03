@@ -1,0 +1,14 @@
+
+<!Doctype HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+
+<HEAD>
+	<META NAME="Author" CONTENT="adum">
+	<TITLE>Fort Knox</TITLE>
+</HEAD>
+
+<BODY bgcolor="white" background="1400.jpg" text=yellow>
+
+<div style="color:black; background-color:#fee">
+<b>
+Logging in as admin' AND (SELECT password FROM user WHERE name='admin') LIKE "grtpw4h4ck3rzyo%" OR name='<br>wrong password

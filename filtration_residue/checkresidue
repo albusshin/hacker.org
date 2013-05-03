@@ -1,0 +1,3277 @@
+      (0 out of 253)
+  chunk IDAT at offset 0x000de, length 46
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (0 out of 253)
+  chunk IDAT at offset 0x00118, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (1 out of 253)
+  chunk IDAT at offset 0x00144, length 70
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (1 out of 253)
+  chunk IDAT at offset 0x00196, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (1 out of 253)
+  chunk IDAT at offset 0x0020b, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (2 out of 253)
+  chunk IDAT at offset 0x00283, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (3 out of 253)
+  chunk IDAT at offset 0x00303, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (4 out of 253)
+  chunk IDAT at offset 0x00374, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (5 out of 253)
+  chunk IDAT at offset 0x003f2, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (5 out of 253)
+  chunk IDAT at offset 0x0041e, length 65
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (5 out of 253)
+  chunk IDAT at offset 0x0046b, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (5 out of 253)
+  chunk IDAT at offset 0x004e3, length 103
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (5 out of 253)
+  chunk IDAT at offset 0x00556, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (6 out of 253)
+  chunk IDAT at offset 0x005d1, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (7 out of 253)
+  chunk IDAT at offset 0x0064f, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (8 out of 253)
+  chunk IDAT at offset 0x006c4, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (9 out of 253)
+  chunk IDAT at offset 0x00744, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (9 out of 253)
+  chunk IDAT at offset 0x007b8, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (10 out of 253)
+  chunk IDAT at offset 0x00831, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (10 out of 253)
+  chunk IDAT at offset 0x008b0, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (11 out of 253)
+  chunk IDAT at offset 0x008c9, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (11 out of 253)
+  chunk IDAT at offset 0x008df, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (11 out of 253)
+  chunk IDAT at offset 0x008f8, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (11 out of 253)
+  chunk IDAT at offset 0x0090e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (11 out of 253)
+  chunk IDAT at offset 0x0093a, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (11 out of 253)
+  chunk IDAT at offset 0x00966, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (12 out of 253)
+  chunk IDAT at offset 0x00992, length 84
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (12 out of 253)
+  chunk IDAT at offset 0x009f2, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (13 out of 253)
+  chunk IDAT at offset 0x00a66, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (13 out of 253)
+  chunk IDAT at offset 0x00adb, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (14 out of 253)
+  chunk IDAT at offset 0x00b5a, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (14 out of 253)
+  chunk IDAT at offset 0x00b86, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (15 out of 253)
+  chunk IDAT at offset 0x00bf5, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (16 out of 253)
+  chunk IDAT at offset 0x00c69, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (17 out of 253)
+  chunk IDAT at offset 0x00cd6, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (17 out of 253)
+  chunk IDAT at offset 0x00d52, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (18 out of 253)
+  chunk IDAT at offset 0x00dd2, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (19 out of 253)
+  chunk IDAT at offset 0x00e43, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (19 out of 253)
+  chunk IDAT at offset 0x00ec1, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (19 out of 253)
+  chunk IDAT at offset 0x00eed, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (19 out of 253)
+  chunk IDAT at offset 0x00f5d, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (20 out of 253)
+  chunk IDAT at offset 0x00fce, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (21 out of 253)
+  chunk IDAT at offset 0x0104d, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (21 out of 253)
+  chunk IDAT at offset 0x010bc, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (22 out of 253)
+  chunk IDAT at offset 0x0113a, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (23 out of 253)
+  chunk IDAT at offset 0x011af, length 98
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (24 out of 253)
+  chunk IDAT at offset 0x0121d, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (25 out of 253)
+  chunk IDAT at offset 0x0128e, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (25 out of 253)
+  chunk IDAT at offset 0x0130d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (25 out of 253)
+  chunk IDAT at offset 0x01339, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (26 out of 253)
+  chunk IDAT at offset 0x013b9, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (27 out of 253)
+  chunk IDAT at offset 0x0142d, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (27 out of 253)
+  chunk IDAT at offset 0x0149e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (27 out of 253)
+  chunk IDAT at offset 0x014ca, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (27 out of 253)
+  chunk IDAT at offset 0x0153c, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (28 out of 253)
+  chunk IDAT at offset 0x015b1, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (29 out of 253)
+  chunk IDAT at offset 0x01629, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (29 out of 253)
+  chunk IDAT at offset 0x016a9, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (29 out of 253)
+  chunk IDAT at offset 0x0171a, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (30 out of 253)
+  chunk IDAT at offset 0x01798, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (30 out of 253)
+  chunk IDAT at offset 0x017c4, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (30 out of 253)
+  chunk IDAT at offset 0x01831, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (31 out of 253)
+  chunk IDAT at offset 0x018a9, length 103
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (32 out of 253)
+  chunk IDAT at offset 0x0191c, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (33 out of 253)
+  chunk IDAT at offset 0x01997, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (33 out of 253)
+  chunk IDAT at offset 0x01a15, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (33 out of 253)
+  chunk IDAT at offset 0x01a8a, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (34 out of 253)
+  chunk IDAT at offset 0x01b0a, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (34 out of 253)
+  chunk IDAT at offset 0x01b7e, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (35 out of 253)
+  chunk IDAT at offset 0x01bf7, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (36 out of 253)
+  chunk IDAT at offset 0x01c76, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (36 out of 253)
+  chunk IDAT at offset 0x01ca2, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (37 out of 253)
+  chunk IDAT at offset 0x01d22, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (37 out of 253)
+  chunk IDAT at offset 0x01d96, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (38 out of 253)
+  chunk IDAT at offset 0x01e03, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (39 out of 253)
+  chunk IDAT at offset 0x01e83, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (39 out of 253)
+  chunk IDAT at offset 0x01eaf, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (40 out of 253)
+  chunk IDAT at offset 0x01f1e, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (40 out of 253)
+  chunk IDAT at offset 0x01f8b, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (41 out of 253)
+  chunk IDAT at offset 0x02005, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (41 out of 253)
+  chunk IDAT at offset 0x02031, length 98
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (41 out of 253)
+  chunk IDAT at offset 0x0209f, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (42 out of 253)
+  chunk IDAT at offset 0x02110, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (42 out of 253)
+  chunk IDAT at offset 0x0213c, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (42 out of 253)
+  chunk IDAT at offset 0x021a9, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (43 out of 253)
+  chunk IDAT at offset 0x02225, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (43 out of 253)
+  chunk IDAT at offset 0x022a1, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (43 out of 253)
+  chunk IDAT at offset 0x02319, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (43 out of 253)
+  chunk IDAT at offset 0x0238e, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (44 out of 253)
+  chunk IDAT at offset 0x023ff, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (44 out of 253)
+  chunk IDAT at offset 0x0246f, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (44 out of 253)
+  chunk IDAT at offset 0x02488, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (44 out of 253)
+  chunk IDAT at offset 0x0249e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (44 out of 253)
+  chunk IDAT at offset 0x024ca, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (44 out of 253)
+  chunk IDAT at offset 0x024f6, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (45 out of 253)
+  chunk IDAT at offset 0x02522, length 98
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (45 out of 253)
+  chunk IDAT at offset 0x02590, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (45 out of 253)
+  chunk IDAT at offset 0x02601, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (45 out of 253)
+  chunk IDAT at offset 0x02673, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (46 out of 253)
+  chunk IDAT at offset 0x026ee, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (46 out of 253)
+  chunk IDAT at offset 0x0276c, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (47 out of 253)
+  chunk IDAT at offset 0x027dd, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (47 out of 253)
+  chunk IDAT at offset 0x02809, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (47 out of 253)
+  chunk IDAT at offset 0x02878, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (48 out of 253)
+  chunk IDAT at offset 0x028f3, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (48 out of 253)
+  chunk IDAT at offset 0x0296c, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (48 out of 253)
+  chunk IDAT at offset 0x029e8, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (49 out of 253)
+  chunk IDAT at offset 0x02a66, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (49 out of 253)
+  chunk IDAT at offset 0x02ad7, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (49 out of 253)
+  chunk IDAT at offset 0x02b56, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (50 out of 253)
+  chunk IDAT at offset 0x02bd5, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (50 out of 253)
+  chunk IDAT at offset 0x02c4a, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (50 out of 253)
+  chunk IDAT at offset 0x02cc5, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (51 out of 253)
+  chunk IDAT at offset 0x02d3f, length 46
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (51 out of 253)
+  chunk IDAT at offset 0x02d79, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (51 out of 253)
+  chunk IDAT at offset 0x02da5, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (51 out of 253)
+  chunk IDAT at offset 0x02dd1, length 84
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (51 out of 253)
+  chunk IDAT at offset 0x02e31, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (52 out of 253)
+  chunk IDAT at offset 0x02ea5, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (52 out of 253)
+  chunk IDAT at offset 0x02f16, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (52 out of 253)
+  chunk IDAT at offset 0x02f42, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (53 out of 253)
+  chunk IDAT at offset 0x02fbe, length 117
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (53 out of 253)
+  chunk IDAT at offset 0x0303f, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (53 out of 253)
+  chunk IDAT at offset 0x030bd, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (54 out of 253)
+  chunk IDAT at offset 0x03139, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (54 out of 253)
+  chunk IDAT at offset 0x031b4, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (54 out of 253)
+  chunk IDAT at offset 0x03233, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (54 out of 253)
+  chunk IDAT at offset 0x032a4, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (54 out of 253)
+  chunk IDAT at offset 0x032d0, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (54 out of 253)
+  chunk IDAT at offset 0x0334b, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (54 out of 253)
+  chunk IDAT at offset 0x033bd, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (54 out of 253)
+  chunk IDAT at offset 0x033e9, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (55 out of 253)
+  chunk IDAT at offset 0x03469, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (55 out of 253)
+  chunk IDAT at offset 0x034dd, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (55 out of 253)
+  chunk IDAT at offset 0x0354e, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (56 out of 253)
+  chunk IDAT at offset 0x035cd, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (56 out of 253)
+  chunk IDAT at offset 0x0363e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (56 out of 253)
+  chunk IDAT at offset 0x0366a, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (56 out of 253)
+  chunk IDAT at offset 0x036dc, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (57 out of 253)
+  chunk IDAT at offset 0x03751, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (57 out of 253)
+  chunk IDAT at offset 0x037c9, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (57 out of 253)
+  chunk IDAT at offset 0x03849, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (58 out of 253)
+  chunk IDAT at offset 0x038ba, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (58 out of 253)
+  chunk IDAT at offset 0x03938, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (58 out of 253)
+  chunk IDAT at offset 0x039b7, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (58 out of 253)
+  chunk IDAT at offset 0x039e3, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (59 out of 253)
+  chunk IDAT at offset 0x03a58, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (59 out of 253)
+  chunk IDAT at offset 0x03ad7, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (59 out of 253)
+  chunk IDAT at offset 0x03b03, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (59 out of 253)
+  chunk IDAT at offset 0x03b83, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (60 out of 253)
+  chunk IDAT at offset 0x03bfe, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (60 out of 253)
+  chunk IDAT at offset 0x03c2a, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (60 out of 253)
+  chunk IDAT at offset 0x03ca6, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (60 out of 253)
+  chunk IDAT at offset 0x03d24, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (61 out of 253)
+  chunk IDAT at offset 0x03d95, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (61 out of 253)
+  chunk IDAT at offset 0x03e11, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (61 out of 253)
+  chunk IDAT at offset 0x03e7e, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (61 out of 253)
+  chunk IDAT at offset 0x03efc, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (62 out of 253)
+  chunk IDAT at offset 0x03f6d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (62 out of 253)
+  chunk IDAT at offset 0x03f99, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (62 out of 253)
+  chunk IDAT at offset 0x04019, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (62 out of 253)
+  chunk IDAT at offset 0x0408d, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (63 out of 253)
+  chunk IDAT at offset 0x040fe, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (63 out of 253)
+  chunk IDAT at offset 0x04117, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (63 out of 253)
+  chunk IDAT at offset 0x0412d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (63 out of 253)
+  chunk IDAT at offset 0x04159, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (63 out of 253)
+  chunk IDAT at offset 0x04185, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (63 out of 253)
+  chunk IDAT at offset 0x041b1, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (63 out of 253)
+  chunk IDAT at offset 0x04226, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (63 out of 253)
+  chunk IDAT at offset 0x0429f, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (64 out of 253)
+  chunk IDAT at offset 0x0430c, length 103
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (64 out of 253)
+  chunk IDAT at offset 0x0437f, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (64 out of 253)
+  chunk IDAT at offset 0x043f0, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (64 out of 253)
+  chunk IDAT at offset 0x0441c, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (64 out of 253)
+  chunk IDAT at offset 0x0448c, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (65 out of 253)
+  chunk IDAT at offset 0x044f9, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (65 out of 253)
+  chunk IDAT at offset 0x04579, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (65 out of 253)
+  chunk IDAT at offset 0x045e6, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (65 out of 253)
+  chunk IDAT at offset 0x04612, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (65 out of 253)
+  chunk IDAT at offset 0x04684, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (66 out of 253)
+  chunk IDAT at offset 0x046ff, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (66 out of 253)
+  chunk IDAT at offset 0x0477d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (66 out of 253)
+  chunk IDAT at offset 0x047a9, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (66 out of 253)
+  chunk IDAT at offset 0x04824, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (66 out of 253)
+  chunk IDAT at offset 0x048a0, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (67 out of 253)
+  chunk IDAT at offset 0x04920, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (67 out of 253)
+  chunk IDAT at offset 0x04995, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (67 out of 253)
+  chunk IDAT at offset 0x04a0e, length 117
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (67 out of 253)
+  chunk IDAT at offset 0x04a8f, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (67 out of 253)
+  chunk IDAT at offset 0x04b08, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (67 out of 253)
+  chunk IDAT at offset 0x04b34, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (68 out of 253)
+  chunk IDAT at offset 0x04ba3, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (68 out of 253)
+  chunk IDAT at offset 0x04c1e, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (68 out of 253)
+  chunk IDAT at offset 0x04c97, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (68 out of 253)
+  chunk IDAT at offset 0x04d13, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (69 out of 253)
+  chunk IDAT at offset 0x04d91, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (69 out of 253)
+  chunk IDAT at offset 0x04e02, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (69 out of 253)
+  chunk IDAT at offset 0x04e81, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (69 out of 253)
+  chunk IDAT at offset 0x04f00, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (70 out of 253)
+  chunk IDAT at offset 0x04f75, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (70 out of 253)
+  chunk IDAT at offset 0x04ff0, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (70 out of 253)
+  chunk IDAT at offset 0x0506a, length 46
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (70 out of 253)
+  chunk IDAT at offset 0x050a4, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (70 out of 253)
+  chunk IDAT at offset 0x050bd, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (70 out of 253)
+  chunk IDAT at offset 0x050d3, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (70 out of 253)
+  chunk IDAT at offset 0x050ec, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (70 out of 253)
+  chunk IDAT at offset 0x05102, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (70 out of 253)
+  chunk IDAT at offset 0x0512e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (70 out of 253)
+  chunk IDAT at offset 0x0515a, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (70 out of 253)
+  chunk IDAT at offset 0x05186, length 54
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (71 out of 253)
+  chunk IDAT at offset 0x051c8, length 46
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (71 out of 253)
+  chunk IDAT at offset 0x05202, length 49
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (71 out of 253)
+  chunk IDAT at offset 0x0523f, length 46
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (71 out of 253)
+  chunk IDAT at offset 0x05279, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (71 out of 253)
+  chunk IDAT at offset 0x052a5, length 70
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (71 out of 253)
+  chunk IDAT at offset 0x052f7, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (71 out of 253)
+  chunk IDAT at offset 0x0536c, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (71 out of 253)
+  chunk IDAT at offset 0x053e4, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (71 out of 253)
+  chunk IDAT at offset 0x05464, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (71 out of 253)
+  chunk IDAT at offset 0x054d5, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (71 out of 253)
+  chunk IDAT at offset 0x05553, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (72 out of 253)
+  chunk IDAT at offset 0x0557f, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (72 out of 253)
+  chunk IDAT at offset 0x055ff, length 121
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (72 out of 253)
+  chunk IDAT at offset 0x05684, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (72 out of 253)
+  chunk IDAT at offset 0x05700, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (72 out of 253)
+  chunk IDAT at offset 0x05771, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (73 out of 253)
+  chunk IDAT at offset 0x057f0, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (73 out of 253)
+  chunk IDAT at offset 0x05809, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (73 out of 253)
+  chunk IDAT at offset 0x0581f, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (73 out of 253)
+  chunk IDAT at offset 0x05838, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (73 out of 253)
+  chunk IDAT at offset 0x0584e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (73 out of 253)
+  chunk IDAT at offset 0x0587a, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (73 out of 253)
+  chunk IDAT at offset 0x058a6, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (73 out of 253)
+  chunk IDAT at offset 0x058d2, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (73 out of 253)
+  chunk IDAT at offset 0x058fe, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (73 out of 253)
+  chunk IDAT at offset 0x0592a, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (73 out of 253)
+  chunk IDAT at offset 0x05956, length 80
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (73 out of 253)
+  chunk IDAT at offset 0x059b2, length 78
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (73 out of 253)
+  chunk IDAT at offset 0x05a0c, length 71
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (74 out of 253)
+  chunk IDAT at offset 0x05a5f, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (74 out of 253)
+  chunk IDAT at offset 0x05a8b, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (74 out of 253)
+  chunk IDAT at offset 0x05afd, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (74 out of 253)
+  chunk IDAT at offset 0x05b72, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (74 out of 253)
+  chunk IDAT at offset 0x05bea, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (74 out of 253)
+  chunk IDAT at offset 0x05c6a, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (75 out of 253)
+  chunk IDAT at offset 0x05cdb, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (75 out of 253)
+  chunk IDAT at offset 0x05d59, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (75 out of 253)
+  chunk IDAT at offset 0x05d85, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (75 out of 253)
+  chunk IDAT at offset 0x05dfe, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (75 out of 253)
+  chunk IDAT at offset 0x05e6f, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (76 out of 253)
+  chunk IDAT at offset 0x05eef, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (76 out of 253)
+  chunk IDAT at offset 0x05f63, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (76 out of 253)
+  chunk IDAT at offset 0x05fde, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (76 out of 253)
+  chunk IDAT at offset 0x0604e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (76 out of 253)
+  chunk IDAT at offset 0x0607a, length 48
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (76 out of 253)
+  chunk IDAT at offset 0x060b6, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (76 out of 253)
+  chunk IDAT at offset 0x060e2, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (77 out of 253)
+  chunk IDAT at offset 0x06152, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (77 out of 253)
+  chunk IDAT at offset 0x061c3, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (77 out of 253)
+  chunk IDAT at offset 0x06235, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (77 out of 253)
+  chunk IDAT at offset 0x062aa, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (78 out of 253)
+  chunk IDAT at offset 0x06324, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (78 out of 253)
+  chunk IDAT at offset 0x06395, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (78 out of 253)
+  chunk IDAT at offset 0x06414, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (78 out of 253)
+  chunk IDAT at offset 0x06440, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (78 out of 253)
+  chunk IDAT at offset 0x064b2, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (79 out of 253)
+  chunk IDAT at offset 0x06527, length 118
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (79 out of 253)
+  chunk IDAT at offset 0x065a9, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (79 out of 253)
+  chunk IDAT at offset 0x0661a, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (79 out of 253)
+  chunk IDAT at offset 0x06646, length 98
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (79 out of 253)
+  chunk IDAT at offset 0x066b4, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (80 out of 253)
+  chunk IDAT at offset 0x06721, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (80 out of 253)
+  chunk IDAT at offset 0x067a0, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (80 out of 253)
+  chunk IDAT at offset 0x06815, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (80 out of 253)
+  chunk IDAT at offset 0x06884, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (81 out of 253)
+  chunk IDAT at offset 0x068b0, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (81 out of 253)
+  chunk IDAT at offset 0x06922, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (81 out of 253)
+  chunk IDAT at offset 0x06997, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (81 out of 253)
+  chunk IDAT at offset 0x06a0f, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (81 out of 253)
+  chunk IDAT at offset 0x06a8f, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (81 out of 253)
+  chunk IDAT at offset 0x06b00, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (82 out of 253)
+  chunk IDAT at offset 0x06b7e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (82 out of 253)
+  chunk IDAT at offset 0x06baa, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (82 out of 253)
+  chunk IDAT at offset 0x06c2a, length 121
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (82 out of 253)
+  chunk IDAT at offset 0x06caf, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (82 out of 253)
+  chunk IDAT at offset 0x06d2b, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (83 out of 253)
+  chunk IDAT at offset 0x06d9c, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (83 out of 253)
+  chunk IDAT at offset 0x06e1b, length 58
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (84 out of 253)
+  chunk IDAT at offset 0x06e61, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (84 out of 253)
+  chunk IDAT at offset 0x06e7a, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (84 out of 253)
+  chunk IDAT at offset 0x06e90, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (84 out of 253)
+  chunk IDAT at offset 0x06ea9, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (84 out of 253)
+  chunk IDAT at offset 0x06ebf, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (84 out of 253)
+  chunk IDAT at offset 0x06eeb, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (84 out of 253)
+  chunk IDAT at offset 0x06f17, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (84 out of 253)
+  chunk IDAT at offset 0x06f43, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (84 out of 253)
+  chunk IDAT at offset 0x06f6f, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (84 out of 253)
+  chunk IDAT at offset 0x06f9b, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (84 out of 253)
+  chunk IDAT at offset 0x06fc7, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (85 out of 253)
+  chunk IDAT at offset 0x06ff3, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (85 out of 253)
+  chunk IDAT at offset 0x0701f, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (85 out of 253)
+  chunk IDAT at offset 0x0704b, length 84
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (85 out of 253)
+  chunk IDAT at offset 0x070ab, length 121
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (86 out of 253)
+  chunk IDAT at offset 0x07130, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (86 out of 253)
+  chunk IDAT at offset 0x071ac, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (86 out of 253)
+  chunk IDAT at offset 0x0721d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (86 out of 253)
+  chunk IDAT at offset 0x07249, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (87 out of 253)
+  chunk IDAT at offset 0x07275, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (87 out of 253)
+  chunk IDAT at offset 0x072a1, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (87 out of 253)
+  chunk IDAT at offset 0x072cd, length 78
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (87 out of 253)
+  chunk IDAT at offset 0x07327, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (88 out of 253)
+  chunk IDAT at offset 0x07394, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (88 out of 253)
+  chunk IDAT at offset 0x0740d, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (88 out of 253)
+  chunk IDAT at offset 0x0747e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (88 out of 253)
+  chunk IDAT at offset 0x074aa, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (88 out of 253)
+  chunk IDAT at offset 0x074d6, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (88 out of 253)
+  chunk IDAT at offset 0x07502, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (88 out of 253)
+  chunk IDAT at offset 0x0752e, length 77
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (88 out of 253)
+  chunk IDAT at offset 0x07587, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (88 out of 253)
+  chunk IDAT at offset 0x075f8, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (88 out of 253)
+  chunk IDAT at offset 0x07665, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (89 out of 253)
+  chunk IDAT at offset 0x076df, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (89 out of 253)
+  chunk IDAT at offset 0x07754, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (90 out of 253)
+  chunk IDAT at offset 0x077ce, length 103
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (90 out of 253)
+  chunk IDAT at offset 0x07841, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (90 out of 253)
+  chunk IDAT at offset 0x0785a, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (90 out of 253)
+  chunk IDAT at offset 0x07870, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (90 out of 253)
+  chunk IDAT at offset 0x07889, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (90 out of 253)
+  chunk IDAT at offset 0x0789f, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (90 out of 253)
+  chunk IDAT at offset 0x078cb, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (91 out of 253)
+  chunk IDAT at offset 0x078f7, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (91 out of 253)
+  chunk IDAT at offset 0x07923, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (91 out of 253)
+  chunk IDAT at offset 0x0794f, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (91 out of 253)
+  chunk IDAT at offset 0x0797b, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (91 out of 253)
+  chunk IDAT at offset 0x079a7, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (91 out of 253)
+  chunk IDAT at offset 0x079d3, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (91 out of 253)
+  chunk IDAT at offset 0x079ff, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (91 out of 253)
+  chunk IDAT at offset 0x07a2b, length 48
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (91 out of 253)
+  chunk IDAT at offset 0x07a67, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (91 out of 253)
+  chunk IDAT at offset 0x07a93, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (91 out of 253)
+  chunk IDAT at offset 0x07abf, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (91 out of 253)
+  chunk IDAT at offset 0x07aeb, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (91 out of 253)
+  chunk IDAT at offset 0x07b17, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (91 out of 253)
+  chunk IDAT at offset 0x07b43, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (91 out of 253)
+  chunk IDAT at offset 0x07b6f, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (91 out of 253)
+  chunk IDAT at offset 0x07b9b, length 78
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (92 out of 253)
+  chunk IDAT at offset 0x07bf5, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (92 out of 253)
+  chunk IDAT at offset 0x07c70, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (93 out of 253)
+  chunk IDAT at offset 0x07cea, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (93 out of 253)
+  chunk IDAT at offset 0x07d5b, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (93 out of 253)
+  chunk IDAT at offset 0x07d87, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (93 out of 253)
+  chunk IDAT at offset 0x07db3, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (94 out of 253)
+  chunk IDAT at offset 0x07ddf, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (94 out of 253)
+  chunk IDAT at offset 0x07e0b, length 49
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (94 out of 253)
+  chunk IDAT at offset 0x07e48, length 49
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (94 out of 253)
+  chunk IDAT at offset 0x07e85, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (94 out of 253)
+  chunk IDAT at offset 0x07e9e, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (94 out of 253)
+  chunk IDAT at offset 0x07eb4, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (94 out of 253)
+  chunk IDAT at offset 0x07ee0, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (94 out of 253)
+  chunk IDAT at offset 0x07f0c, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (94 out of 253)
+  chunk IDAT at offset 0x07f38, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (95 out of 253)
+  chunk IDAT at offset 0x07f64, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (95 out of 253)
+  chunk IDAT at offset 0x07f90, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (95 out of 253)
+  chunk IDAT at offset 0x07fbc, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (95 out of 253)
+  chunk IDAT at offset 0x07fe8, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (95 out of 253)
+  chunk IDAT at offset 0x08014, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (95 out of 253)
+  chunk IDAT at offset 0x08040, length 49
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (95 out of 253)
+  chunk IDAT at offset 0x0807d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (95 out of 253)
+  chunk IDAT at offset 0x080a9, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (96 out of 253)
+  chunk IDAT at offset 0x080d5, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (96 out of 253)
+  chunk IDAT at offset 0x08101, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (96 out of 253)
+  chunk IDAT at offset 0x0812d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (96 out of 253)
+  chunk IDAT at offset 0x08159, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (96 out of 253)
+  chunk IDAT at offset 0x08185, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (96 out of 253)
+  chunk IDAT at offset 0x081b1, length 83
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (97 out of 253)
+  chunk IDAT at offset 0x08210, length 117
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (97 out of 253)
+  chunk IDAT at offset 0x08291, length 98
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (98 out of 253)
+  chunk IDAT at offset 0x082ff, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (98 out of 253)
+  chunk IDAT at offset 0x0832b, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (98 out of 253)
+  chunk IDAT at offset 0x08357, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (98 out of 253)
+  chunk IDAT at offset 0x08383, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (98 out of 253)
+  chunk IDAT at offset 0x083af, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (98 out of 253)
+  chunk IDAT at offset 0x083db, length 48
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (98 out of 253)
+  chunk IDAT at offset 0x08417, length 49
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (99 out of 253)
+  chunk IDAT at offset 0x08454, length 48
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (99 out of 253)
+  chunk IDAT at offset 0x08490, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (99 out of 253)
+  chunk IDAT at offset 0x084a9, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (99 out of 253)
+  chunk IDAT at offset 0x084bf, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (99 out of 253)
+  chunk IDAT at offset 0x084eb, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (99 out of 253)
+  chunk IDAT at offset 0x08517, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (99 out of 253)
+  chunk IDAT at offset 0x08543, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (100 out of 253)
+  chunk IDAT at offset 0x0856f, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (100 out of 253)
+  chunk IDAT at offset 0x0859b, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (100 out of 253)
+  chunk IDAT at offset 0x085c7, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (100 out of 253)
+  chunk IDAT at offset 0x085f3, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (100 out of 253)
+  chunk IDAT at offset 0x0861f, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (100 out of 253)
+  chunk IDAT at offset 0x0864b, length 50
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (100 out of 253)
+  chunk IDAT at offset 0x08689, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (100 out of 253)
+  chunk IDAT at offset 0x086b5, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (100 out of 253)
+  chunk IDAT at offset 0x086e1, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (100 out of 253)
+  chunk IDAT at offset 0x0870d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (100 out of 253)
+  chunk IDAT at offset 0x08739, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (100 out of 253)
+  chunk IDAT at offset 0x08765, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (100 out of 253)
+  chunk IDAT at offset 0x08791, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (100 out of 253)
+  chunk IDAT at offset 0x087bd, length 85
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (100 out of 253)
+  chunk IDAT at offset 0x0881e, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (101 out of 253)
+  chunk IDAT at offset 0x0889a, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (101 out of 253)
+  chunk IDAT at offset 0x088c6, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (101 out of 253)
+  chunk IDAT at offset 0x088f2, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (101 out of 253)
+  chunk IDAT at offset 0x0891e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (101 out of 253)
+  chunk IDAT at offset 0x0894a, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (102 out of 253)
+  chunk IDAT at offset 0x08976, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (102 out of 253)
+  chunk IDAT at offset 0x089a2, length 48
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (102 out of 253)
+  chunk IDAT at offset 0x089de, length 49
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (102 out of 253)
+  chunk IDAT at offset 0x08a1b, length 49
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (102 out of 253)
+  chunk IDAT at offset 0x08a58, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (102 out of 253)
+  chunk IDAT at offset 0x08a71, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (102 out of 253)
+  chunk IDAT at offset 0x08a87, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (102 out of 253)
+  chunk IDAT at offset 0x08ab3, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (103 out of 253)
+  chunk IDAT at offset 0x08adf, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08b0b, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08b37, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08b63, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08b8f, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08bbb, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08be7, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08c13, length 51
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08c52, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08c7e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08caa, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08cd6, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08d02, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08d2e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08d5a, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08d86, length 65
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (103 out of 253)
+  chunk IDAT at offset 0x08dd3, length 118
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (104 out of 253)
+  chunk IDAT at offset 0x08e55, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (104 out of 253)
+  chunk IDAT at offset 0x08ec6, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (105 out of 253)
+  chunk IDAT at offset 0x08f44, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (105 out of 253)
+  chunk IDAT at offset 0x08fb1, length 103
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (105 out of 253)
+  chunk IDAT at offset 0x09024, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (106 out of 253)
+  chunk IDAT at offset 0x09095, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (106 out of 253)
+  chunk IDAT at offset 0x090c1, length 49
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (106 out of 253)
+  chunk IDAT at offset 0x090fe, length 48
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (106 out of 253)
+  chunk IDAT at offset 0x0913a, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (106 out of 253)
+  chunk IDAT at offset 0x09153, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (106 out of 253)
+  chunk IDAT at offset 0x09169, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (106 out of 253)
+  chunk IDAT at offset 0x09195, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (106 out of 253)
+  chunk IDAT at offset 0x091c1, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (107 out of 253)
+  chunk IDAT at offset 0x091ed, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (107 out of 253)
+  chunk IDAT at offset 0x09219, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (107 out of 253)
+  chunk IDAT at offset 0x09245, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (107 out of 253)
+  chunk IDAT at offset 0x09271, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (107 out of 253)
+  chunk IDAT at offset 0x0929d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (107 out of 253)
+  chunk IDAT at offset 0x092c9, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (107 out of 253)
+  chunk IDAT at offset 0x092f5, length 52
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (107 out of 253)
+  chunk IDAT at offset 0x09335, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (108 out of 253)
+  chunk IDAT at offset 0x09361, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (108 out of 253)
+  chunk IDAT at offset 0x0938d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (108 out of 253)
+  chunk IDAT at offset 0x093b9, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (108 out of 253)
+  chunk IDAT at offset 0x093e5, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (108 out of 253)
+  chunk IDAT at offset 0x09411, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (108 out of 253)
+  chunk IDAT at offset 0x0943d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (108 out of 253)
+  chunk IDAT at offset 0x09469, length 80
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (109 out of 253)
+  chunk IDAT at offset 0x094c5, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (109 out of 253)
+  chunk IDAT at offset 0x09532, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (109 out of 253)
+  chunk IDAT at offset 0x095a3, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (110 out of 253)
+  chunk IDAT at offset 0x09623, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (110 out of 253)
+  chunk IDAT at offset 0x09697, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (110 out of 253)
+  chunk IDAT at offset 0x096c3, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (110 out of 253)
+  chunk IDAT at offset 0x096ef, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (110 out of 253)
+  chunk IDAT at offset 0x0971b, length 48
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (111 out of 253)
+  chunk IDAT at offset 0x09757, length 48
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (111 out of 253)
+  chunk IDAT at offset 0x09793, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (111 out of 253)
+  chunk IDAT at offset 0x097ac, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (111 out of 253)
+  chunk IDAT at offset 0x097c2, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (111 out of 253)
+  chunk IDAT at offset 0x097db, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (111 out of 253)
+  chunk IDAT at offset 0x097f1, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (111 out of 253)
+  chunk IDAT at offset 0x0981d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (111 out of 253)
+  chunk IDAT at offset 0x09849, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (111 out of 253)
+  chunk IDAT at offset 0x09875, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (111 out of 253)
+  chunk IDAT at offset 0x098a1, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (111 out of 253)
+  chunk IDAT at offset 0x098cd, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (112 out of 253)
+  chunk IDAT at offset 0x098f9, length 40
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (112 out of 253)
+  chunk IDAT at offset 0x0992d, length 78
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (112 out of 253)
+  chunk IDAT at offset 0x09987, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (112 out of 253)
+  chunk IDAT at offset 0x09a02, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (112 out of 253)
+  chunk IDAT at offset 0x09a82, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (112 out of 253)
+  chunk IDAT at offset 0x09af3, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (112 out of 253)
+  chunk IDAT at offset 0x09b1f, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (112 out of 253)
+  chunk IDAT at offset 0x09b9f, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (112 out of 253)
+  chunk IDAT at offset 0x09c13, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (112 out of 253)
+  chunk IDAT at offset 0x09c80, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (113 out of 253)
+  chunk IDAT at offset 0x09d00, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (113 out of 253)
+  chunk IDAT at offset 0x09d2c, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (113 out of 253)
+  chunk IDAT at offset 0x09d9e, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (114 out of 253)
+  chunk IDAT at offset 0x09e13, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (114 out of 253)
+  chunk IDAT at offset 0x09e8b, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (114 out of 253)
+  chunk IDAT at offset 0x09f0b, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (115 out of 253)
+  chunk IDAT at offset 0x09f7c, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (115 out of 253)
+  chunk IDAT at offset 0x09ffa, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (115 out of 253)
+  chunk IDAT at offset 0x0a026, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (116 out of 253)
+  chunk IDAT at offset 0x0a09f, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (116 out of 253)
+  chunk IDAT at offset 0x0a110, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (116 out of 253)
+  chunk IDAT at offset 0x0a190, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (117 out of 253)
+  chunk IDAT at offset 0x0a204, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (117 out of 253)
+  chunk IDAT at offset 0x0a27f, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (117 out of 253)
+  chunk IDAT at offset 0x0a2ef, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (118 out of 253)
+  chunk IDAT at offset 0x0a31b, length 48
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (118 out of 253)
+  chunk IDAT at offset 0x0a357, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (118 out of 253)
+  chunk IDAT at offset 0x0a383, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (118 out of 253)
+  chunk IDAT at offset 0x0a3f8, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (118 out of 253)
+  chunk IDAT at offset 0x0a472, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (119 out of 253)
+  chunk IDAT at offset 0x0a49e, length 73
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (119 out of 253)
+  chunk IDAT at offset 0x0a4f3, length 72
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (119 out of 253)
+  chunk IDAT at offset 0x0a547, length 68
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (119 out of 253)
+  chunk IDAT at offset 0x0a597, length 82
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (119 out of 253)
+  chunk IDAT at offset 0x0a5f5, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (120 out of 253)
+  chunk IDAT at offset 0x0a621, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (120 out of 253)
+  chunk IDAT at offset 0x0a6a0, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (120 out of 253)
+  chunk IDAT at offset 0x0a71c, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (121 out of 253)
+  chunk IDAT at offset 0x0a78d, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (121 out of 253)
+  chunk IDAT at offset 0x0a7fc, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (121 out of 253)
+  chunk IDAT at offset 0x0a871, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (122 out of 253)
+  chunk IDAT at offset 0x0a8e3, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (122 out of 253)
+  chunk IDAT at offset 0x0a958, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (122 out of 253)
+  chunk IDAT at offset 0x0a9c9, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (123 out of 253)
+  chunk IDAT at offset 0x0aa48, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (123 out of 253)
+  chunk IDAT at offset 0x0aa74, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (123 out of 253)
+  chunk IDAT at offset 0x0aae5, length 120
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (124 out of 253)
+  chunk IDAT at offset 0x0ab69, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (124 out of 253)
+  chunk IDAT at offset 0x0abd6, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (124 out of 253)
+  chunk IDAT at offset 0x0ac45, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (125 out of 253)
+  chunk IDAT at offset 0x0acc5, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (125 out of 253)
+  chunk IDAT at offset 0x0ad3d, length 121
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (126 out of 253)
+  chunk IDAT at offset 0x0adc2, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (126 out of 253)
+  chunk IDAT at offset 0x0adee, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (126 out of 253)
+  chunk IDAT at offset 0x0ae6e, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (126 out of 253)
+  chunk IDAT at offset 0x0aee2, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (126 out of 253)
+  chunk IDAT at offset 0x0af57, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (126 out of 253)
+  chunk IDAT at offset 0x0afd6, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (126 out of 253)
+  chunk IDAT at offset 0x0b002, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (126 out of 253)
+  chunk IDAT at offset 0x0b081, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (127 out of 253)
+  chunk IDAT at offset 0x0b0f2, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (127 out of 253)
+  chunk IDAT at offset 0x0b172, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (127 out of 253)
+  chunk IDAT at offset 0x0b19e, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (127 out of 253)
+  chunk IDAT at offset 0x0b219, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (128 out of 253)
+  chunk IDAT at offset 0x0b28b, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (128 out of 253)
+  chunk IDAT at offset 0x0b2a4, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (128 out of 253)
+  chunk IDAT at offset 0x0b2ba, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (128 out of 253)
+  chunk IDAT at offset 0x0b2e6, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (128 out of 253)
+  chunk IDAT at offset 0x0b312, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (128 out of 253)
+  chunk IDAT at offset 0x0b33e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (128 out of 253)
+  chunk IDAT at offset 0x0b36a, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (128 out of 253)
+  chunk IDAT at offset 0x0b396, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (128 out of 253)
+  chunk IDAT at offset 0x0b3c2, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (129 out of 253)
+  chunk IDAT at offset 0x0b434, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (129 out of 253)
+  chunk IDAT at offset 0x0b4a9, length 118
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (130 out of 253)
+  chunk IDAT at offset 0x0b52b, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (130 out of 253)
+  chunk IDAT at offset 0x0b59c, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (130 out of 253)
+  chunk IDAT at offset 0x0b5c8, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (130 out of 253)
+  chunk IDAT at offset 0x0b63a, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (130 out of 253)
+  chunk IDAT at offset 0x0b6af, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (130 out of 253)
+  chunk IDAT at offset 0x0b727, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (130 out of 253)
+  chunk IDAT at offset 0x0b7a7, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (130 out of 253)
+  chunk IDAT at offset 0x0b818, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (131 out of 253)
+  chunk IDAT at offset 0x0b896, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (131 out of 253)
+  chunk IDAT at offset 0x0b8c2, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (131 out of 253)
+  chunk IDAT at offset 0x0b942, length 121
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (132 out of 253)
+  chunk IDAT at offset 0x0b9c7, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (132 out of 253)
+  chunk IDAT at offset 0x0ba43, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (132 out of 253)
+  chunk IDAT at offset 0x0bab4, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (133 out of 253)
+  chunk IDAT at offset 0x0bb33, length 46
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (133 out of 253)
+  chunk IDAT at offset 0x0bb6d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (133 out of 253)
+  chunk IDAT at offset 0x0bb99, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (133 out of 253)
+  chunk IDAT at offset 0x0bbc5, length 73
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (134 out of 253)
+  chunk IDAT at offset 0x0bc1a, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (134 out of 253)
+  chunk IDAT at offset 0x0bc8c, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (134 out of 253)
+  chunk IDAT at offset 0x0bcb8, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (134 out of 253)
+  chunk IDAT at offset 0x0bd38, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (135 out of 253)
+  chunk IDAT at offset 0x0bdac, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (135 out of 253)
+  chunk IDAT at offset 0x0be1d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (135 out of 253)
+  chunk IDAT at offset 0x0be49, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (136 out of 253)
+  chunk IDAT at offset 0x0bec8, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (136 out of 253)
+  chunk IDAT at offset 0x0bf39, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (136 out of 253)
+  chunk IDAT at offset 0x0bfb9, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (136 out of 253)
+  chunk IDAT at offset 0x0bfe5, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (137 out of 253)
+  chunk IDAT at offset 0x0c060, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (137 out of 253)
+  chunk IDAT at offset 0x0c0d2, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (137 out of 253)
+  chunk IDAT at offset 0x0c0fe, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (137 out of 253)
+  chunk IDAT at offset 0x0c170, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (138 out of 253)
+  chunk IDAT at offset 0x0c1e5, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (138 out of 253)
+  chunk IDAT at offset 0x0c25d, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (138 out of 253)
+  chunk IDAT at offset 0x0c2dd, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (139 out of 253)
+  chunk IDAT at offset 0x0c34e, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (139 out of 253)
+  chunk IDAT at offset 0x0c3cc, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (139 out of 253)
+  chunk IDAT at offset 0x0c3f8, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (139 out of 253)
+  chunk IDAT at offset 0x0c478, length 121
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (139 out of 253)
+  chunk IDAT at offset 0x0c4fd, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (139 out of 253)
+  chunk IDAT at offset 0x0c579, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (139 out of 253)
+  chunk IDAT at offset 0x0c5ea, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (140 out of 253)
+  chunk IDAT at offset 0x0c669, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (140 out of 253)
+  chunk IDAT at offset 0x0c695, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (140 out of 253)
+  chunk IDAT at offset 0x0c70a, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (140 out of 253)
+  chunk IDAT at offset 0x0c789, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (141 out of 253)
+  chunk IDAT at offset 0x0c7b5, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (141 out of 253)
+  chunk IDAT at offset 0x0c826, length 118
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (141 out of 253)
+  chunk IDAT at offset 0x0c8a8, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (142 out of 253)
+  chunk IDAT at offset 0x0c919, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (142 out of 253)
+  chunk IDAT at offset 0x0c997, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (142 out of 253)
+  chunk IDAT at offset 0x0c9c3, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (142 out of 253)
+  chunk IDAT at offset 0x0ca34, length 120
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (143 out of 253)
+  chunk IDAT at offset 0x0cab8, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (143 out of 253)
+  chunk IDAT at offset 0x0cb38, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (143 out of 253)
+  chunk IDAT at offset 0x0cba9, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (144 out of 253)
+  chunk IDAT at offset 0x0cc23, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (144 out of 253)
+  chunk IDAT at offset 0x0cc93, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (145 out of 253)
+  chunk IDAT at offset 0x0cd04, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (145 out of 253)
+  chunk IDAT at offset 0x0cd74, length 44
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (145 out of 253)
+  chunk IDAT at offset 0x0cdac, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (145 out of 253)
+  chunk IDAT at offset 0x0cdd8, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (145 out of 253)
+  chunk IDAT at offset 0x0ce45, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (146 out of 253)
+  chunk IDAT at offset 0x0ce5e, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (146 out of 253)
+  chunk IDAT at offset 0x0ce74, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (146 out of 253)
+  chunk IDAT at offset 0x0cea0, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (146 out of 253)
+  chunk IDAT at offset 0x0cecc, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (146 out of 253)
+  chunk IDAT at offset 0x0cef8, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (146 out of 253)
+  chunk IDAT at offset 0x0cf24, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (146 out of 253)
+  chunk IDAT at offset 0x0cf50, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (146 out of 253)
+  chunk IDAT at offset 0x0cf7c, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (147 out of 253)
+  chunk IDAT at offset 0x0cfec, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (147 out of 253)
+  chunk IDAT at offset 0x0d061, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (147 out of 253)
+  chunk IDAT at offset 0x0d0d3, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (148 out of 253)
+  chunk IDAT at offset 0x0d145, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (148 out of 253)
+  chunk IDAT at offset 0x0d1b6, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (148 out of 253)
+  chunk IDAT at offset 0x0d234, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (149 out of 253)
+  chunk IDAT at offset 0x0d2a5, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (149 out of 253)
+  chunk IDAT at offset 0x0d31f, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (149 out of 253)
+  chunk IDAT at offset 0x0d39f, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (149 out of 253)
+  chunk IDAT at offset 0x0d3cb, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (149 out of 253)
+  chunk IDAT at offset 0x0d43d, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (149 out of 253)
+  chunk IDAT at offset 0x0d4b2, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (149 out of 253)
+  chunk IDAT at offset 0x0d52a, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (150 out of 253)
+  chunk IDAT at offset 0x0d5aa, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (150 out of 253)
+  chunk IDAT at offset 0x0d61b, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (151 out of 253)
+  chunk IDAT at offset 0x0d699, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (151 out of 253)
+  chunk IDAT at offset 0x0d6c5, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (151 out of 253)
+  chunk IDAT at offset 0x0d73e, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (151 out of 253)
+  chunk IDAT at offset 0x0d7af, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (152 out of 253)
+  chunk IDAT at offset 0x0d82f, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (152 out of 253)
+  chunk IDAT at offset 0x0d8a3, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (153 out of 253)
+  chunk IDAT at offset 0x0d91e, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (153 out of 253)
+  chunk IDAT at offset 0x0d98e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (153 out of 253)
+  chunk IDAT at offset 0x0d9ba, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (154 out of 253)
+  chunk IDAT at offset 0x0da34, length 117
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (154 out of 253)
+  chunk IDAT at offset 0x0dab5, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (155 out of 253)
+  chunk IDAT at offset 0x0db2e, length 98
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (155 out of 253)
+  chunk IDAT at offset 0x0db9c, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (155 out of 253)
+  chunk IDAT at offset 0x0dc0d, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (156 out of 253)
+  chunk IDAT at offset 0x0dc8b, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (156 out of 253)
+  chunk IDAT at offset 0x0dcb7, length 119
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (156 out of 253)
+  chunk IDAT at offset 0x0dd3a, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (157 out of 253)
+  chunk IDAT at offset 0x0ddaf, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (157 out of 253)
+  chunk IDAT at offset 0x0de27, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (158 out of 253)
+  chunk IDAT at offset 0x0de9f, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (158 out of 253)
+  chunk IDAT at offset 0x0decb, length 98
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (158 out of 253)
+  chunk IDAT at offset 0x0df39, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (158 out of 253)
+  chunk IDAT at offset 0x0dfaa, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (158 out of 253)
+  chunk IDAT at offset 0x0dfd6, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (158 out of 253)
+  chunk IDAT at offset 0x0e043, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (158 out of 253)
+  chunk IDAT at offset 0x0e0c2, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (158 out of 253)
+  chunk IDAT at offset 0x0e141, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (159 out of 253)
+  chunk IDAT at offset 0x0e1b6, length 103
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (159 out of 253)
+  chunk IDAT at offset 0x0e229, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (159 out of 253)
+  chunk IDAT at offset 0x0e2a3, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (160 out of 253)
+  chunk IDAT at offset 0x0e314, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (160 out of 253)
+  chunk IDAT at offset 0x0e384, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (161 out of 253)
+  chunk IDAT at offset 0x0e3b0, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (161 out of 253)
+  chunk IDAT at offset 0x0e430, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (161 out of 253)
+  chunk IDAT at offset 0x0e4ab, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (161 out of 253)
+  chunk IDAT at offset 0x0e4d7, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (161 out of 253)
+  chunk IDAT at offset 0x0e557, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (161 out of 253)
+  chunk IDAT at offset 0x0e5cb, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (162 out of 253)
+  chunk IDAT at offset 0x0e63c, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (162 out of 253)
+  chunk IDAT at offset 0x0e668, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (162 out of 253)
+  chunk IDAT at offset 0x0e6d9, length 120
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (163 out of 253)
+  chunk IDAT at offset 0x0e75d, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (163 out of 253)
+  chunk IDAT at offset 0x0e7dd, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (164 out of 253)
+  chunk IDAT at offset 0x0e84e, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (164 out of 253)
+  chunk IDAT at offset 0x0e8c8, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (165 out of 253)
+  chunk IDAT at offset 0x0e938, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (165 out of 253)
+  chunk IDAT at offset 0x0e9a9, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (166 out of 253)
+  chunk IDAT at offset 0x0ea19, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (166 out of 253)
+  chunk IDAT at offset 0x0ea32, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (166 out of 253)
+  chunk IDAT at offset 0x0ea48, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (166 out of 253)
+  chunk IDAT at offset 0x0ea74, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (166 out of 253)
+  chunk IDAT at offset 0x0eaa0, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (166 out of 253)
+  chunk IDAT at offset 0x0eacc, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (166 out of 253)
+  chunk IDAT at offset 0x0eaf8, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (166 out of 253)
+  chunk IDAT at offset 0x0eb24, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (166 out of 253)
+  chunk IDAT at offset 0x0eb50, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (167 out of 253)
+  chunk IDAT at offset 0x0ebcf, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (167 out of 253)
+  chunk IDAT at offset 0x0ec40, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (168 out of 253)
+  chunk IDAT at offset 0x0ecc0, length 44
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (168 out of 253)
+  chunk IDAT at offset 0x0ecf8, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (168 out of 253)
+  chunk IDAT at offset 0x0ed24, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (169 out of 253)
+  chunk IDAT at offset 0x0eda3, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (169 out of 253)
+  chunk IDAT at offset 0x0ee1e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (169 out of 253)
+  chunk IDAT at offset 0x0ee4a, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (170 out of 253)
+  chunk IDAT at offset 0x0eeca, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (170 out of 253)
+  chunk IDAT at offset 0x0ef3e, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (170 out of 253)
+  chunk IDAT at offset 0x0efab, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (170 out of 253)
+  chunk IDAT at offset 0x0f02b, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (170 out of 253)
+  chunk IDAT at offset 0x0f057, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (171 out of 253)
+  chunk IDAT at offset 0x0f0c7, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (171 out of 253)
+  chunk IDAT at offset 0x0f138, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (171 out of 253)
+  chunk IDAT at offset 0x0f1a7, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (172 out of 253)
+  chunk IDAT at offset 0x0f222, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (172 out of 253)
+  chunk IDAT at offset 0x0f292, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (172 out of 253)
+  chunk IDAT at offset 0x0f303, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (173 out of 253)
+  chunk IDAT at offset 0x0f381, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (173 out of 253)
+  chunk IDAT at offset 0x0f400, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (173 out of 253)
+  chunk IDAT at offset 0x0f42c, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (174 out of 253)
+  chunk IDAT at offset 0x0f4a6, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (174 out of 253)
+  chunk IDAT at offset 0x0f517, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (174 out of 253)
+  chunk IDAT at offset 0x0f588, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (175 out of 253)
+  chunk IDAT at offset 0x0f5f8, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (175 out of 253)
+  chunk IDAT at offset 0x0f624, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (175 out of 253)
+  chunk IDAT at offset 0x0f69e, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (175 out of 253)
+  chunk IDAT at offset 0x0f719, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (176 out of 253)
+  chunk IDAT at offset 0x0f799, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (176 out of 253)
+  chunk IDAT at offset 0x0f7c5, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (176 out of 253)
+  chunk IDAT at offset 0x0f835, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (177 out of 253)
+  chunk IDAT at offset 0x0f8a6, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (177 out of 253)
+  chunk IDAT at offset 0x0f915, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (177 out of 253)
+  chunk IDAT at offset 0x0f990, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (178 out of 253)
+  chunk IDAT at offset 0x0fa09, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (178 out of 253)
+  chunk IDAT at offset 0x0fa85, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (178 out of 253)
+  chunk IDAT at offset 0x0fb03, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (179 out of 253)
+  chunk IDAT at offset 0x0fb74, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (179 out of 253)
+  chunk IDAT at offset 0x0fbf3, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (179 out of 253)
+  chunk IDAT at offset 0x0fc72, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (180 out of 253)
+  chunk IDAT at offset 0x0fc9e, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (180 out of 253)
+  chunk IDAT at offset 0x0fd1e, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (180 out of 253)
+  chunk IDAT at offset 0x0fd92, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (181 out of 253)
+  chunk IDAT at offset 0x0fe03, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (181 out of 253)
+  chunk IDAT at offset 0x0fe2f, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (181 out of 253)
+  chunk IDAT at offset 0x0fe9f, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (181 out of 253)
+  chunk IDAT at offset 0x0ff0c, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (182 out of 253)
+  chunk IDAT at offset 0x0ff8c, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (182 out of 253)
+  chunk IDAT at offset 0x0fff9, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (182 out of 253)
+  chunk IDAT at offset 0x10025, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (182 out of 253)
+  chunk IDAT at offset 0x100a5, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (182 out of 253)
+  chunk IDAT at offset 0x10120, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (182 out of 253)
+  chunk IDAT at offset 0x1014c, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (183 out of 253)
+  chunk IDAT at offset 0x101bc, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (183 out of 253)
+  chunk IDAT at offset 0x10231, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (183 out of 253)
+  chunk IDAT at offset 0x102b0, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (184 out of 253)
+  chunk IDAT at offset 0x1031f, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (184 out of 253)
+  chunk IDAT at offset 0x1039a, length 118
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (184 out of 253)
+  chunk IDAT at offset 0x1041c, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (184 out of 253)
+  chunk IDAT at offset 0x1048d, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (184 out of 253)
+  chunk IDAT at offset 0x1050b, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (184 out of 253)
+  chunk IDAT at offset 0x10524, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (184 out of 253)
+  chunk IDAT at offset 0x1053a, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (184 out of 253)
+  chunk IDAT at offset 0x10566, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (185 out of 253)
+  chunk IDAT at offset 0x10592, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (185 out of 253)
+  chunk IDAT at offset 0x105be, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (185 out of 253)
+  chunk IDAT at offset 0x105ea, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (185 out of 253)
+  chunk IDAT at offset 0x10616, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (185 out of 253)
+  chunk IDAT at offset 0x10642, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (185 out of 253)
+  chunk IDAT at offset 0x106c2, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (186 out of 253)
+  chunk IDAT at offset 0x10736, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (186 out of 253)
+  chunk IDAT at offset 0x107a3, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (186 out of 253)
+  chunk IDAT at offset 0x10823, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (187 out of 253)
+  chunk IDAT at offset 0x1084f, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (187 out of 253)
+  chunk IDAT at offset 0x108c4, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (187 out of 253)
+  chunk IDAT at offset 0x10944, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (187 out of 253)
+  chunk IDAT at offset 0x10970, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (188 out of 253)
+  chunk IDAT at offset 0x109df, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (188 out of 253)
+  chunk IDAT at offset 0x10a5a, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (188 out of 253)
+  chunk IDAT at offset 0x10ad4, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (188 out of 253)
+  chunk IDAT at offset 0x10b54, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (188 out of 253)
+  chunk IDAT at offset 0x10bc1, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (188 out of 253)
+  chunk IDAT at offset 0x10c36, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (189 out of 253)
+  chunk IDAT at offset 0x10cb0, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (189 out of 253)
+  chunk IDAT at offset 0x10d2f, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (189 out of 253)
+  chunk IDAT at offset 0x10d5b, length 117
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (189 out of 253)
+  chunk IDAT at offset 0x10ddc, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (190 out of 253)
+  chunk IDAT at offset 0x10e56, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (190 out of 253)
+  chunk IDAT at offset 0x10ed5, length 117
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (190 out of 253)
+  chunk IDAT at offset 0x10f56, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (191 out of 253)
+  chunk IDAT at offset 0x10fd2, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (191 out of 253)
+  chunk IDAT at offset 0x1104e, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (191 out of 253)
+  chunk IDAT at offset 0x110c9, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (192 out of 253)
+  chunk IDAT at offset 0x11147, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (192 out of 253)
+  chunk IDAT at offset 0x111c7, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (192 out of 253)
+  chunk IDAT at offset 0x11238, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (192 out of 253)
+  chunk IDAT at offset 0x112a8, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (192 out of 253)
+  chunk IDAT at offset 0x112d4, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (192 out of 253)
+  chunk IDAT at offset 0x11346, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (193 out of 253)
+  chunk IDAT at offset 0x113bb, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (193 out of 253)
+  chunk IDAT at offset 0x11433, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (193 out of 253)
+  chunk IDAT at offset 0x114b3, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (194 out of 253)
+  chunk IDAT at offset 0x11524, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (194 out of 253)
+  chunk IDAT at offset 0x115a2, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (194 out of 253)
+  chunk IDAT at offset 0x115ce, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (195 out of 253)
+  chunk IDAT at offset 0x1164e, length 121
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (195 out of 253)
+  chunk IDAT at offset 0x116d3, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (196 out of 253)
+  chunk IDAT at offset 0x1174f, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (196 out of 253)
+  chunk IDAT at offset 0x117c0, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (196 out of 253)
+  chunk IDAT at offset 0x1183f, length 46
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (196 out of 253)
+  chunk IDAT at offset 0x11879, length 41
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (197 out of 253)
+  chunk IDAT at offset 0x118ae, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (197 out of 253)
+  chunk IDAT at offset 0x118c7, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (197 out of 253)
+  chunk IDAT at offset 0x118dd, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (197 out of 253)
+  chunk IDAT at offset 0x118f6, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (197 out of 253)
+  chunk IDAT at offset 0x1190c, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (197 out of 253)
+  chunk IDAT at offset 0x11938, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (197 out of 253)
+  chunk IDAT at offset 0x11964, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (197 out of 253)
+  chunk IDAT at offset 0x11990, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (197 out of 253)
+  chunk IDAT at offset 0x119bc, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (197 out of 253)
+  chunk IDAT at offset 0x119e8, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (197 out of 253)
+  chunk IDAT at offset 0x11a14, length 84
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (198 out of 253)
+  chunk IDAT at offset 0x11a74, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (198 out of 253)
+  chunk IDAT at offset 0x11ae8, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (198 out of 253)
+  chunk IDAT at offset 0x11b59, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (198 out of 253)
+  chunk IDAT at offset 0x11b85, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (199 out of 253)
+  chunk IDAT at offset 0x11bf6, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (199 out of 253)
+  chunk IDAT at offset 0x11c70, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (199 out of 253)
+  chunk IDAT at offset 0x11cdf, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (200 out of 253)
+  chunk IDAT at offset 0x11d5a, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (200 out of 253)
+  chunk IDAT at offset 0x11dca, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (200 out of 253)
+  chunk IDAT at offset 0x11e3b, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (200 out of 253)
+  chunk IDAT at offset 0x11eb9, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (200 out of 253)
+  chunk IDAT at offset 0x11ee5, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (200 out of 253)
+  chunk IDAT at offset 0x11f54, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (201 out of 253)
+  chunk IDAT at offset 0x11fc1, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (201 out of 253)
+  chunk IDAT at offset 0x1203b, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (201 out of 253)
+  chunk IDAT at offset 0x12067, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (201 out of 253)
+  chunk IDAT at offset 0x120d6, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (202 out of 253)
+  chunk IDAT at offset 0x1214a, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (202 out of 253)
+  chunk IDAT at offset 0x121c5, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (202 out of 253)
+  chunk IDAT at offset 0x12240, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (202 out of 253)
+  chunk IDAT at offset 0x122bf, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (203 out of 253)
+  chunk IDAT at offset 0x12330, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (203 out of 253)
+  chunk IDAT at offset 0x1235c, length 119
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (203 out of 253)
+  chunk IDAT at offset 0x123df, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (203 out of 253)
+  chunk IDAT at offset 0x12453, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (204 out of 253)
+  chunk IDAT at offset 0x124c8, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (204 out of 253)
+  chunk IDAT at offset 0x12537, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (204 out of 253)
+  chunk IDAT at offset 0x125ab, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (205 out of 253)
+  chunk IDAT at offset 0x125d7, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (205 out of 253)
+  chunk IDAT at offset 0x12652, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (205 out of 253)
+  chunk IDAT at offset 0x126c4, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (205 out of 253)
+  chunk IDAT at offset 0x126f0, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (205 out of 253)
+  chunk IDAT at offset 0x12770, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (206 out of 253)
+  chunk IDAT at offset 0x127e4, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (206 out of 253)
+  chunk IDAT at offset 0x12855, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (206 out of 253)
+  chunk IDAT at offset 0x128d4, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (207 out of 253)
+  chunk IDAT at offset 0x12945, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (207 out of 253)
+  chunk IDAT at offset 0x12971, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (207 out of 253)
+  chunk IDAT at offset 0x129e3, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (207 out of 253)
+  chunk IDAT at offset 0x12a58, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (208 out of 253)
+  chunk IDAT at offset 0x12ad0, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (208 out of 253)
+  chunk IDAT at offset 0x12b50, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (208 out of 253)
+  chunk IDAT at offset 0x12bc1, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (209 out of 253)
+  chunk IDAT at offset 0x12c3f, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (209 out of 253)
+  chunk IDAT at offset 0x12c6b, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (209 out of 253)
+  chunk IDAT at offset 0x12cd8, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (209 out of 253)
+  chunk IDAT at offset 0x12d50, length 103
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (210 out of 253)
+  chunk IDAT at offset 0x12dc3, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (210 out of 253)
+  chunk IDAT at offset 0x12e3e, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (210 out of 253)
+  chunk IDAT at offset 0x12ebc, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (210 out of 253)
+  chunk IDAT at offset 0x12f31, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (211 out of 253)
+  chunk IDAT at offset 0x12fb1, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (211 out of 253)
+  chunk IDAT at offset 0x13025, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (211 out of 253)
+  chunk IDAT at offset 0x1309e, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (211 out of 253)
+  chunk IDAT at offset 0x1311d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (211 out of 253)
+  chunk IDAT at offset 0x13149, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (212 out of 253)
+  chunk IDAT at offset 0x131c9, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (212 out of 253)
+  chunk IDAT at offset 0x13244, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (212 out of 253)
+  chunk IDAT at offset 0x13270, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (212 out of 253)
+  chunk IDAT at offset 0x132dd, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (212 out of 253)
+  chunk IDAT at offset 0x13359, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (213 out of 253)
+  chunk IDAT at offset 0x133d5, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (213 out of 253)
+  chunk IDAT at offset 0x1344d, length 121
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (213 out of 253)
+  chunk IDAT at offset 0x134d2, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (213 out of 253)
+  chunk IDAT at offset 0x134eb, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (213 out of 253)
+  chunk IDAT at offset 0x13501, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (213 out of 253)
+  chunk IDAT at offset 0x1352d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (213 out of 253)
+  chunk IDAT at offset 0x13559, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (213 out of 253)
+  chunk IDAT at offset 0x13585, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (213 out of 253)
+  chunk IDAT at offset 0x135b1, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (213 out of 253)
+  chunk IDAT at offset 0x135dd, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (214 out of 253)
+  chunk IDAT at offset 0x13609, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (214 out of 253)
+  chunk IDAT at offset 0x13684, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (214 out of 253)
+  chunk IDAT at offset 0x136fe, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (214 out of 253)
+  chunk IDAT at offset 0x1372a, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (214 out of 253)
+  chunk IDAT at offset 0x13797, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (214 out of 253)
+  chunk IDAT at offset 0x137c3, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (215 out of 253)
+  chunk IDAT at offset 0x13842, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (215 out of 253)
+  chunk IDAT at offset 0x138b1, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (215 out of 253)
+  chunk IDAT at offset 0x1391e, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (215 out of 253)
+  chunk IDAT at offset 0x13998, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (216 out of 253)
+  chunk IDAT at offset 0x13a10, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (216 out of 253)
+  chunk IDAT at offset 0x13a85, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (216 out of 253)
+  chunk IDAT at offset 0x13aff, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (216 out of 253)
+  chunk IDAT at offset 0x13b70, length 45
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (216 out of 253)
+  chunk IDAT at offset 0x13ba9, length 98
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (217 out of 253)
+  chunk IDAT at offset 0x13c17, length 121
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (217 out of 253)
+  chunk IDAT at offset 0x13c9c, length 45
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (217 out of 253)
+  chunk IDAT at offset 0x13cd5, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (217 out of 253)
+  chunk IDAT at offset 0x13d54, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (218 out of 253)
+  chunk IDAT at offset 0x13dc3, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (218 out of 253)
+  chunk IDAT at offset 0x13e30, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (218 out of 253)
+  chunk IDAT at offset 0x13eaa, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (218 out of 253)
+  chunk IDAT at offset 0x13f22, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (219 out of 253)
+  chunk IDAT at offset 0x13f97, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (219 out of 253)
+  chunk IDAT at offset 0x14011, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (219 out of 253)
+  chunk IDAT at offset 0x14082, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (219 out of 253)
+  chunk IDAT at offset 0x140ae, length 98
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (219 out of 253)
+  chunk IDAT at offset 0x1411c, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (220 out of 253)
+  chunk IDAT at offset 0x14189, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (220 out of 253)
+  chunk IDAT at offset 0x14208, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (220 out of 253)
+  chunk IDAT at offset 0x1427d, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (221 out of 253)
+  chunk IDAT at offset 0x142fc, length 46
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (221 out of 253)
+  chunk IDAT at offset 0x14336, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (221 out of 253)
+  chunk IDAT at offset 0x14362, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (221 out of 253)
+  chunk IDAT at offset 0x1438e, length 73
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (221 out of 253)
+  chunk IDAT at offset 0x143e3, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (222 out of 253)
+  chunk IDAT at offset 0x1445d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (222 out of 253)
+  chunk IDAT at offset 0x14489, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (222 out of 253)
+  chunk IDAT at offset 0x14509, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (222 out of 253)
+  chunk IDAT at offset 0x1457d, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (222 out of 253)
+  chunk IDAT at offset 0x145ee, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (223 out of 253)
+  chunk IDAT at offset 0x1461a, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (223 out of 253)
+  chunk IDAT at offset 0x1468f, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (223 out of 253)
+  chunk IDAT at offset 0x14708, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (223 out of 253)
+  chunk IDAT at offset 0x14775, length 103
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (224 out of 253)
+  chunk IDAT at offset 0x147e8, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (224 out of 253)
+  chunk IDAT at offset 0x14859, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (224 out of 253)
+  chunk IDAT at offset 0x14885, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (224 out of 253)
+  chunk IDAT at offset 0x148f5, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (225 out of 253)
+  chunk IDAT at offset 0x14962, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (225 out of 253)
+  chunk IDAT at offset 0x149e2, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (225 out of 253)
+  chunk IDAT at offset 0x14a4f, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (225 out of 253)
+  chunk IDAT at offset 0x14a7b, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (226 out of 253)
+  chunk IDAT at offset 0x14afa, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (226 out of 253)
+  chunk IDAT at offset 0x14b6b, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (226 out of 253)
+  chunk IDAT at offset 0x14be5, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (226 out of 253)
+  chunk IDAT at offset 0x14c65, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (227 out of 253)
+  chunk IDAT at offset 0x14c91, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (227 out of 253)
+  chunk IDAT at offset 0x14d11, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (227 out of 253)
+  chunk IDAT at offset 0x14d8c, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (227 out of 253)
+  chunk IDAT at offset 0x14db8, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (227 out of 253)
+  chunk IDAT at offset 0x14e38, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (227 out of 253)
+  chunk IDAT at offset 0x14eac, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (227 out of 253)
+  chunk IDAT at offset 0x14f1d, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (227 out of 253)
+  chunk IDAT at offset 0x14f36, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (227 out of 253)
+  chunk IDAT at offset 0x14f4c, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (228 out of 253)
+  chunk IDAT at offset 0x14f78, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (228 out of 253)
+  chunk IDAT at offset 0x14fa4, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (228 out of 253)
+  chunk IDAT at offset 0x14fd0, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (228 out of 253)
+  chunk IDAT at offset 0x14ffc, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (228 out of 253)
+  chunk IDAT at offset 0x15028, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (228 out of 253)
+  chunk IDAT at offset 0x15054, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (228 out of 253)
+  chunk IDAT at offset 0x150c3, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (229 out of 253)
+  chunk IDAT at offset 0x1513e, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (229 out of 253)
+  chunk IDAT at offset 0x151b7, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (229 out of 253)
+  chunk IDAT at offset 0x15233, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (229 out of 253)
+  chunk IDAT at offset 0x152b1, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (230 out of 253)
+  chunk IDAT at offset 0x15322, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (230 out of 253)
+  chunk IDAT at offset 0x153a1, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (230 out of 253)
+  chunk IDAT at offset 0x15420, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (231 out of 253)
+  chunk IDAT at offset 0x15495, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (231 out of 253)
+  chunk IDAT at offset 0x15510, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (231 out of 253)
+  chunk IDAT at offset 0x1558a, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (231 out of 253)
+  chunk IDAT at offset 0x155b6, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (232 out of 253)
+  chunk IDAT at offset 0x15635, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (232 out of 253)
+  chunk IDAT at offset 0x156b5, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (232 out of 253)
+  chunk IDAT at offset 0x15726, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (232 out of 253)
+  chunk IDAT at offset 0x157a2, length 44
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (233 out of 253)
+  chunk IDAT at offset 0x157da, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (233 out of 253)
+  chunk IDAT at offset 0x15806, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (233 out of 253)
+  chunk IDAT at offset 0x15877, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (233 out of 253)
+  chunk IDAT at offset 0x158e4, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (233 out of 253)
+  chunk IDAT at offset 0x15953, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (234 out of 253)
+  chunk IDAT at offset 0x159c7, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (234 out of 253)
+  chunk IDAT at offset 0x159f3, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (234 out of 253)
+  chunk IDAT at offset 0x15a72, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (234 out of 253)
+  chunk IDAT at offset 0x15ae1, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (235 out of 253)
+  chunk IDAT at offset 0x15b4e, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (235 out of 253)
+  chunk IDAT at offset 0x15bc8, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (235 out of 253)
+  chunk IDAT at offset 0x15c40, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (235 out of 253)
+  chunk IDAT at offset 0x15cb5, length 110
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (236 out of 253)
+  chunk IDAT at offset 0x15d2f, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (236 out of 253)
+  chunk IDAT at offset 0x15da0, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (236 out of 253)
+  chunk IDAT at offset 0x15dcc, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (236 out of 253)
+  chunk IDAT at offset 0x15e41, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (236 out of 253)
+  chunk IDAT at offset 0x15ec0, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (236 out of 253)
+  chunk IDAT at offset 0x15eec, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (236 out of 253)
+  chunk IDAT at offset 0x15f68, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (237 out of 253)
+  chunk IDAT at offset 0x15fe6, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (237 out of 253)
+  chunk IDAT at offset 0x16057, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (237 out of 253)
+  chunk IDAT at offset 0x160c6, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (237 out of 253)
+  chunk IDAT at offset 0x16137, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (237 out of 253)
+  chunk IDAT at offset 0x161a7, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (238 out of 253)
+  chunk IDAT at offset 0x16218, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (238 out of 253)
+  chunk IDAT at offset 0x16288, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (238 out of 253)
+  chunk IDAT at offset 0x162b4, length 98
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (238 out of 253)
+  chunk IDAT at offset 0x16322, length 121
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (238 out of 253)
+  chunk IDAT at offset 0x163a7, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (238 out of 253)
+  chunk IDAT at offset 0x163d3, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      2 (239 out of 253)
+  chunk IDAT at offset 0x16440, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (239 out of 253)
+  chunk IDAT at offset 0x1646c, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (239 out of 253)
+  chunk IDAT at offset 0x164de, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (239 out of 253)
+  chunk IDAT at offset 0x16553, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (239 out of 253)
+  chunk IDAT at offset 0x165cb, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (240 out of 253)
+  chunk IDAT at offset 0x1664b, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (240 out of 253)
+  chunk IDAT at offset 0x166bc, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (240 out of 253)
+  chunk IDAT at offset 0x1673a, length 45
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (240 out of 253)
+  chunk IDAT at offset 0x16773, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (240 out of 253)
+  chunk IDAT at offset 0x167f3, length 121
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (241 out of 253)
+  chunk IDAT at offset 0x16878, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (241 out of 253)
+  chunk IDAT at offset 0x168f4, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (241 out of 253)
+  chunk IDAT at offset 0x16965, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (241 out of 253)
+  chunk IDAT at offset 0x16991, length 98
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (241 out of 253)
+  chunk IDAT at offset 0x169ff, length 121
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (242 out of 253)
+  chunk IDAT at offset 0x16a84, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (242 out of 253)
+  chunk IDAT at offset 0x16b04, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (242 out of 253)
+  chunk IDAT at offset 0x16b75, length 13
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (242 out of 253)
+  chunk IDAT at offset 0x16b8e, length 10
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (242 out of 253)
+  chunk IDAT at offset 0x16ba4, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (242 out of 253)
+  chunk IDAT at offset 0x16bd0, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (242 out of 253)
+  chunk IDAT at offset 0x16bfc, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (242 out of 253)
+  chunk IDAT at offset 0x16c28, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (242 out of 253)
+  chunk IDAT at offset 0x16c54, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (242 out of 253)
+  chunk IDAT at offset 0x16c80, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (242 out of 253)
+  chunk IDAT at offset 0x16cac, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (243 out of 253)
+  chunk IDAT at offset 0x16d2c, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (243 out of 253)
+  chunk IDAT at offset 0x16da0, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (243 out of 253)
+  chunk IDAT at offset 0x16e0d, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (243 out of 253)
+  chunk IDAT at offset 0x16e8d, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (243 out of 253)
+  chunk IDAT at offset 0x16eb9, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (243 out of 253)
+  chunk IDAT at offset 0x16f38, length 112
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (243 out of 253)
+  chunk IDAT at offset 0x16fb4, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (244 out of 253)
+  chunk IDAT at offset 0x17025, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (244 out of 253)
+  chunk IDAT at offset 0x17094, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (244 out of 253)
+  chunk IDAT at offset 0x17109, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (244 out of 253)
+  chunk IDAT at offset 0x1717b, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (245 out of 253)
+  chunk IDAT at offset 0x171f0, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (245 out of 253)
+  chunk IDAT at offset 0x17261, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (245 out of 253)
+  chunk IDAT at offset 0x172e0, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (245 out of 253)
+  chunk IDAT at offset 0x1730c, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (245 out of 253)
+  chunk IDAT at offset 0x1738c, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (245 out of 253)
+  chunk IDAT at offset 0x17400, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (245 out of 253)
+  chunk IDAT at offset 0x17471, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (245 out of 253)
+  chunk IDAT at offset 0x1749d, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (246 out of 253)
+  chunk IDAT at offset 0x1750f, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (246 out of 253)
+  chunk IDAT at offset 0x17584, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (246 out of 253)
+  chunk IDAT at offset 0x175fc, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (246 out of 253)
+  chunk IDAT at offset 0x1767c, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (247 out of 253)
+  chunk IDAT at offset 0x176ed, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (247 out of 253)
+  chunk IDAT at offset 0x1776b, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (247 out of 253)
+  chunk IDAT at offset 0x17797, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (247 out of 253)
+  chunk IDAT at offset 0x17804, length 108
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (247 out of 253)
+  chunk IDAT at offset 0x1787c, length 103
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (247 out of 253)
+  chunk IDAT at offset 0x178ef, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (247 out of 253)
+  chunk IDAT at offset 0x1796a, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (248 out of 253)
+  chunk IDAT at offset 0x179e8, length 105
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (248 out of 253)
+  chunk IDAT at offset 0x17a5d, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (248 out of 253)
+  chunk IDAT at offset 0x17add, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (248 out of 253)
+  chunk IDAT at offset 0x17b51, length 109
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (249 out of 253)
+  chunk IDAT at offset 0x17bca, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (249 out of 253)
+  chunk IDAT at offset 0x17bf6, length 117
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (249 out of 253)
+  chunk IDAT at offset 0x17c77, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (249 out of 253)
+  chunk IDAT at offset 0x17cf6, length 101
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      4 (250 out of 253)
+  chunk IDAT at offset 0x17d67, length 100
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (250 out of 253)
+  chunk IDAT at offset 0x17dd7, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (250 out of 253)
+  chunk IDAT at offset 0x17e03, length 102
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (250 out of 253)
+  chunk IDAT at offset 0x17e75, length 111
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      1 (251 out of 253)
+  chunk IDAT at offset 0x17ef0, length 114
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (251 out of 253)
+  chunk IDAT at offset 0x17f6e, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (251 out of 253)
+  chunk IDAT at offset 0x17f9a, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (251 out of 253)
+  chunk IDAT at offset 0x1801a, length 104
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      0 (252 out of 253)
+  chunk IDAT at offset 0x1808e, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (252 out of 253)
+  chunk IDAT at offset 0x180fb, length 116
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (252 out of 253)
+  chunk IDAT at offset 0x1817b, length 32
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (252 out of 253)
+  chunk IDAT at offset 0x181a7, length 115
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (252 out of 253)
+  chunk IDAT at offset 0x18226, length 99
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      (252 out of 253)
+  chunk IDAT at offset 0x18295, length 97
+    row filters (0 none, 1 sub, 2 up, 3 avg, 4 paeth):
+      3 (253 out of 253)
